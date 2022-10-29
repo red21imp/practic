@@ -7,24 +7,6 @@ Python News
 What's New in Python 2.6.6?
 ===========================
 
-*Release date: 2010-08-24*
-
-Core and Builtins
------------------
-
-Library
--------
-
-
-What's New in Python 2.6.6 rc 2?
-================================
-
-*Release date: 2010-08-16*
-
-Library
--------
-
-- Issue #9600: Don't use relative import for _multiprocessing on Windows.
 
 - Issue #8688: Revert regression introduced in 2.6.6rc1 (making Distutils
   recalculate MANIFEST every time).
@@ -36,6 +18,8 @@ Library
   in r83624.
 
 Extension Modules
+
+
 -----------------
 
 - Issue #7567: Don't call `setupterm' twice.
